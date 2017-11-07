@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1510093269 source:/home/jamiehlake/Desktop/SocketsServer/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
